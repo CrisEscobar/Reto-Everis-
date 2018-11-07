@@ -1,9 +1,9 @@
 # Plataforma de reclutamiento Everis
 
-![UserPersonas](https://crisescobar.files.wordpress.com/2018/11/fotik.png)
-
 ## Preámbulo
 Este proyecto fue desarrollado en 36 horas para la Hackaton interna de Laboratoria. El reto, fue planteado por la empresa de tecnología Everis, que buscaba la creación de una plataforma que unificara y simplificara los procesos de reclutamiento.
+
+![UserPersonas](https://crisescobar.files.wordpress.com/2018/11/fotik.png)
 
 ## Objetivo del reto:
 Diseñar una aplicación y su experiencia usuario, que permita mejorar los procesos dereclutamiento de nuevos colaboradores. Asimismo, deberá permitir a los Gerentesde T&AS, equipo de reclutamiento y entrevistadores, hacer el seguimiento en línea de estos procesos de reclutamiento.
@@ -28,6 +28,17 @@ Optimizar el proceso de resultados.
 Objetivo
 Diseñar una aplicación y su experiencia usuario, que permita mejorar los procesos de reclutamiento de nuevos colaboradores. Asimismo, deberá permitir a los Gerentes de T&AS, equipo de reclutamiento y entrevistadores, hacer el seguimiento en línea de estos procesos de reclutamiento.
 
+## Research
+
+Realizamos entrevistas a personas involucradas en procesos de reclutamientos y RRHH, entre ellas la encargada de procesos de selección en Laboratoria, quien tiene a cargo a más de 1000 postulantes. Ante ello, elaboramos un affinity map junto con la información que también nos brindó Everis.
+
+![UserPersonas](https://crisescobar.files.wordpress.com/2018/11/whatsapp-image-2018-11-06-at-20-07-25.jpeg)
+
+## Síntesis
+
+Junto con toda la información que nos brindó la empresa, pasamos a enteder el proceso de reclutamiento elaborando el posible mapa de sitio.
+
+![UserPersonas](https://crisescobar.files.wordpress.com/2018/11/fotik.png)
 
 
 
@@ -43,41 +54,3 @@ Diseñar una aplicación y su experiencia usuario, que permita mejorar los proce
 
 
 
-
-
-
-
-
-
-
-Proceso
-Analicé la información dada por Everis junto con mi equipo para comprender el problema y lo que necesitaba la empresa.
-
-Benchmark
-Se realizó benchmark de algunos websites como Hire by Google, Navent, Workbeat, etc. para entender a otras empresas del mercado que tengan la misma o similar enfoque. (Acceder al Benchmark realizado)
-
-Affinity Map
-Entrevisté con mi equipo a algunas personas que trabajan en procesos de selección para diversos fines. Con las conclusiones de esas entrevistas, se pudo realizar un affinity map que permita obtener qué temas y detalles son más importantes y necesarios.
-
-Affinity map
-
-Mapa del proceso de reclutamiento
-Con el mapa del proceso se puede visualizar el flujo que siguen durante un reclutamiento, y ayudó a establecer los datos que se requieren para la solución.
-
-Proceso de reclutamiento
-
-Prototipado
-Luego de analizar el proceso de reclutamiento de Everis y tener más claras las necesidades, se realizó algunos sketches para visualizar la solución. Luego se diseñó el prototipo de alta fidelidad.
-
-Ingresa al prototipo interactivo
-
-Prototipo de alta fidelidad
-
-Testings
-Se realizaron testings de la primera versión del prototipo a personas encargadas de procesos de selección. Como conclusión se obtuvo que para publicar una oferta de trabajo se debe automatizar la mayor parte posible. Tener plantillas de la descripción y otra información, especialmente si son ofertas que se han hecho antes, en ese caso incluso las pruebas tendrían que estar preseleccionadas, ya que el sistema debe guardar esos datos.
-
-También se obtuvo que al final de publicar una oferta, las personas testeadas preferían un mensaje confirmando la publicación y también un resumen de ella.
-
-De la misma manera, hubo una preferencia por ver primero en qué etapa se encontraban los postulantes, y en segunda instancia ver un resumen general. Además, resultó importante saber si los postulantes eran referidos por trabajadores o contactos, no era primordial que se muestre de dónde habían postulado, solamente saber si los referían, ya que al ser recomendados daba más seguridad.
-
-Para los usuarios testeados, no les parecía muy importante medir la experiencia por años, sino que preferían verla por proyectos, por eso el CV les resultó una buena herramienta. También querían ver detalles como quién los había entrevistado o evaluado. Les pareció muy bien implementar los comentarios que puedan hacer los reclutadores sobre el postulante, para saber cómo va.
