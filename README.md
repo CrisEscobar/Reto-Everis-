@@ -1,10 +1,16 @@
 # Plataforma de reclutamiento Everis
 
+![UserPersonas](https://crisescobar.files.wordpress.com/2018/11/fotik.png)
+
 ## Preámbulo
 Este proyecto fue desarrollado en 36 horas para la Hackaton interna de Laboratoria. El reto, fue planteado por la empresa de tecnología Everis, que buscaba la creación de una plataforma que unificara y simplificara los procesos de reclutamiento.
 
-## El reto
-Para ello, la empresa nos brindó la siguiente información: 
+## Objetivo del reto:
+Diseñar una aplicación y su experiencia usuario, que permita mejorar los procesos dereclutamiento de nuevos colaboradores. Asimismo, deberá permitir a los Gerentesde T&AS, equipo de reclutamiento y entrevistadores, hacer el seguimiento en línea de estos procesos de reclutamiento.
+
+
+## Lineamientos del cliente:
+Para la creación del proyecto, la empresa nos brindó la siguiente información: 
 
 Everis necesita gestionar, de forma adecuada, la incorporación de consultores a sus distintos proyectos. Los Gerentes no cuentan con mucho tiempo disponible y, al ser un tema en el que demostrar experiencia técnica y conocimientos específicos tiene un peso importante, hacer eficiente ese seguimiento ayudaría a ahorrar tiempo y no atrasar proyectos o mover a personas clave. Tener esta visibilidad ayudaría a maniobrar, priorizar y gestionar las peticiones, así como conocer de primera mano al candidato, inclusive llegando al CV.
 
@@ -21,6 +27,28 @@ Proceso de entrevistas.
 Optimizar el proceso de resultados.
 Objetivo
 Diseñar una aplicación y su experiencia usuario, que permita mejorar los procesos de reclutamiento de nuevos colaboradores. Asimismo, deberá permitir a los Gerentes de T&AS, equipo de reclutamiento y entrevistadores, hacer el seguimiento en línea de estos procesos de reclutamiento.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 Proceso
 Analicé la información dada por Everis junto con mi equipo para comprender el problema y lo que necesitaba la empresa.
