@@ -1,7 +1,7 @@
-### Plataforma de reclutamiento Everis
+# Plataforma de reclutamiento Everis
 
 ## Preámbulo
-Este proyecto fue desarrollado en 36 horas junto a mi squad de UX Designers, para la Hackaton interna de Laboratoria, . El reto, fue planteado por la empresa de tecnología Everis, que buscaba la creación de una plataforma que unificara y simplificara los procesos de reclutamiento.
+Este proyecto fue desarrollado en 36 horas para la Hackaton interna de Laboratoria. El reto, fue planteado por la empresa de tecnología Everis, que buscaba la creación de una plataforma que unificara y simplificara los procesos de reclutamiento.
 
 ## El reto
 Para ello, la empresa nos brindó la siguiente información: 
