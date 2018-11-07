@@ -32,13 +32,13 @@ Diseñar una aplicación y su experiencia usuario, que permita mejorar los proce
 
 Realizamos entrevistas a personas involucradas en procesos de reclutamientos y RRHH, entre ellas la encargada de procesos de selección en Laboratoria, quien tiene a cargo a más de 1000 postulantes. Ante ello, elaboramos un affinity map junto con la información que también nos brindó Everis.
 
-![UserPersonas](https://crisescobar.files.wordpress.com/2018/11/whatsapp-image-2018-11-06-at-20-07-25.jpeg)
+![UserPersonas](https://crisescobar.files.wordpress.com/2018/11/affinitymap.jpg)
 
 ## Síntesis
 
 Junto con toda la información que nos brindó la empresa, pasamos a enteder el proceso de reclutamiento elaborando el posible mapa de sitio.
 
-![UserPersonas](https://crisescobar.files.wordpress.com/2018/11/fotik.png)
+![UserPersonas](https://crisescobar.files.wordpress.com/2018/11/whatsapp-image-2018-11-06-at-20-00-55.jpeg)
 
 
 
